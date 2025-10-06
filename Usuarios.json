@@ -16,5 +16,11 @@
         "key": "ANGELITO",
         "expirydate": "15-10-2026",
         "Allowoffline": false
-        }
+    },
+    {
+        "device_id": "7a4aba16b0d90811",
+        "key": "MOI",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
+    }
 ]
