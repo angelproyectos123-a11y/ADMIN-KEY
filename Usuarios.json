@@ -34,5 +34,11 @@
         "key": "SANTI",
         "expirydate": "15-10-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "52c130317b4a38ee",
+        "key": "Bautista",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 ]
