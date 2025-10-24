@@ -40,5 +40,11 @@
         "key": "Bautista",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a2640484d8ce7bd7",
+        "key": "CHICO-H4X",
+        "expirydate": "28-10-2030",
+        "Allowoffline": false
     }
 ]
