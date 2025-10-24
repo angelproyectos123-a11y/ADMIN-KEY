@@ -42,9 +42,15 @@
         "Allowoffline": false
     },
     {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "a2640484d8ce7bd7",
-        "key": "CHICO-H4X",
-        "expirydate": "28-10-2030",
+        "key": "CHICO",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
