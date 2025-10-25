@@ -64,5 +64,17 @@
         "key": "SEKEANMODZ",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d83f80706f704145",
+        "key": "BORUTO",
+        "expirydate": "30-10-2025",
+        "Allowoffline": false
     }
 ]
