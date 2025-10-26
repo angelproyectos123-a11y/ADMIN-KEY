@@ -112,5 +112,17 @@
         "key": "BORUTA",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "52c130317b4a38ee",
+        "key": "BAUTISTA",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 ]
