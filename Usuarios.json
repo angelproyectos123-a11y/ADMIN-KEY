@@ -88,5 +88,17 @@
         "key": "TOBI",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "983a69d212fe5371",
+        "key": "Jhems",
+        "expirydate": "31-10-2025",
+        "Allowoffline": false
     }
 ]
