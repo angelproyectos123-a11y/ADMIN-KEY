@@ -124,5 +124,17 @@
         "key": "BAUTISTA",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b2c6118256fbbebe",
+        "key": "MINI CHICO",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
 ]
