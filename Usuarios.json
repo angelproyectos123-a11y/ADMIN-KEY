@@ -136,5 +136,17 @@
         "key": "MINI CHICO",
         "expirydate": "01-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a636d3a716f7b168",
+        "key": "Carlosvip",
+        "expirydate": "9-11-2025",
+        "Allowoffline": false
     }
 ]
